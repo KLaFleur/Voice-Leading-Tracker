@@ -2,7 +2,7 @@
 
 This project is designed to recognize and label internal voice leading lines in melodies. Even though a melody may be played on 1 instrument, one note at a time, it may have multiple discrete voices. This is important because we hear these almost as their own melodies. When there is a skip or jump in the contour of a melody, we seem to wait for when the melody returns to further develop the voice it departed from. 
 
-Here's a possible sample output for the first 2 systems of Bach's Invention #4. When there is a change in voice(as I've defined it) the color changes. The phenomenon where 2 voices are held at once is best explained by the second system, where the lower voice(teal) is returned to about once a bar.
+Here's a possible sample output for the first 2 systems of Bach's Invention #4. When there is a change in voice(as I've defined it) the color changes. The phenomenon where 2 voices are attended to at once is best explained by the second system, where the lower voice(teal) is returned to about once a bar.
 ![](examples/inv4.png)
 ## Issues
 when 2 internal voices go to the same place, its hard to say which voice takes precedence, or how it would be possible to illustrate that this has occurred.
